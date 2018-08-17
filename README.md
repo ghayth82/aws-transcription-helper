@@ -1,7 +1,7 @@
 # aws-transcription-helper
 Work with AWS to transcribe recorded speech quicker and more accurately.
 
-Try it at: samfredlumley.github.io/aws-transcription-helper
+Try it at: <a href="https://samfredlumley.github.io/aws-transcription-helper/">samfredlumley.github.io/aws-transcription-helper</a>
 
 The app currently displays text from the json file output by Amazon Transcibe, highlighting individual words that recieved a low confidence rating by the automated transcription service.
 
